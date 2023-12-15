@@ -11,8 +11,6 @@ This repository contains the automation testing framework for the QProsFE projec
 - [Setup and Configuration](#setup-and-configuration)
 - [Test Execution](#test-execution)
 - [Test Reports](#test-reports)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -64,3 +62,6 @@ mvn test -P chrome
 ```bash
 mvn test -P firefox
 ```
+### Test Reports
+
+  - Test reports are generated using ExtentReports and can be found in the reports directory.
