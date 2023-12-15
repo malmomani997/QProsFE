@@ -27,14 +27,14 @@ Before running the tests, ensure you have the following installed:
 
 ## Project Structure
 
-The project is structured as follows:
+## The project is structured as follows:
 
-#  src/main : Main source code directory.
-#  src/test: Test source code directory.
-#  Extensions: Directory to store browser extension files.
-#  reports: Directory to store test reports.
-#  screenshots: Directory to store screenshots captured during test execution.
-#  chromeRun.xml and firefoxRun.xml : TestNG XML files for configuring test runs.
+###  src/main : Main source code directory.
+###  src/test: Test source code directory.
+###  Extensions: Directory to store browser extension files.
+###  reports: Directory to store test reports.
+###  screenshots: Directory to store screenshots captured during test execution.
+###  chromeRun.xml and firefoxRun.xml : TestNG XML files for configuring test runs.
 
 ## Setup and Configuration
 
