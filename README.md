@@ -58,3 +58,9 @@ Before running the tests, ensure you have the following installed:
 
 ```bash
 mvn test -P chrome
+```
+
+### FireFox
+```bash
+mvn test -P firefox
+```
