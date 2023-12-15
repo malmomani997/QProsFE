@@ -29,38 +29,6 @@ Before running the tests, ensure you have the following installed:
 
 The project is structured as follows:
 
-\`\`\`bash
-QProsFE
-|-- src
-|   |-- main
-|   |   |-- java
-|   |   |   |-- QProsFETask
-|   |   |   |   |-- TestHelpers
-|   |   |   |   |   |-- BaseTest.java
-|   |   |   |   |   |-- Retry.java
-|   |   |   |   |   |-- Listeners.java
-|   |   |   |   |-- PagesHelper
-|   |   |   |   |   |-- CartPageHelper.java
-|   |   |   |   |   |-- HomePageHelper.java
-|   |   |   |   |   |-- OrderDetailsPageHelper.java
-|   |   |   |   |-- Resources
-|   |   |   |   |   |-- ExtentReporterNG.java
-|   |   |   |   |   |-- TestData.java
-|   |   |   |   |-- SharedElements
-|   |   |   |   |   |-- SharedElementsHelper.java
-|   |-- Extensions
-|   |-- reports
-|   |-- screenshots
-|-- test
-|   |-- java
-|   |   |-- QProsFETask
-|   |   |   |-- TestScenarios
-|   |   |   |   |-- CheckoutTest.java
-|-- chromeRun.xml
-|-- firefoxRun.xml
-|-- pom.xml
-\`\`\`
-
 - \`src/main\`: Main source code directory.
 - \`src/test\`: Test source code directory.
 - \`Extensions\`: Directory to store browser extension files.
