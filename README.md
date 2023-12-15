@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # QProsFE Automation Testing Framework
 
 # Overview
